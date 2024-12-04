@@ -1,0 +1,11 @@
+<query xmlns="http://www.corelationinc.com/queryLanguage/v1.0">
+    <logon>
+        <userName>{{Username}}</userName>
+        <deviceName>{{Username}}</deviceName>
+        <password>{{Password}}</password>
+    </logon>
+    <sequence>
+        <transaction>
+    </transaction>
+    </sequence>
+</query>
